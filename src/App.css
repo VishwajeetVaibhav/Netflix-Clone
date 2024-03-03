@@ -1,0 +1,12 @@
+.app {
+    margin: 0;
+    padding: 0;
+    background-color: #111;
+    height: 100%;
+    overflow: hidden;
+}
+
+.app {
+    overflow-y: auto; /* Enable vertical scrolling within the .app container */
+    box-sizing: border-box;
+}
